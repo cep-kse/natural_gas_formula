@@ -15,9 +15,9 @@ Our task was to assess potential economic effect of introducing indexation formu
 ## Folders description
 * **00_contracts_pdf** - sample of pdf files with additional contracts, structured by date and ProZorro's contract id
 * **02_data** - raw data used for calculations, including:
-  * *PNCGMc1_2019-01-14.csv* - NCG Month+1 natural gas prices
+  * *PNCGMc1_2019-01-14.csv* - NCG Month+1 daily natural gas prices
   * *exchange_rates_eur_2018_12_30.csv* - hryvnia to euro daily exchange rates
-  * *prices_ueb_2019_01.csv* - Ukrainian Energy Exchange natural gas prices
+  * *prices_ueb_2019_01.csv* - Ukrainian Energy Exchange monthly natural gas prices
 * **03_for_students** - distributed extracts from the main dataset, which were later completed by the students and volunteers, as well as a file to track the distributed contract ids
 * **04_output** - aggregated data after the complements, as well as dataset with final calculations
 * **05_viz** - vizualizations of calculated economic effects
